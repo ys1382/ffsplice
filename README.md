@@ -3,7 +3,7 @@ Removes sections from a video
 
 I wanted to remove the naughty bits from all the episodes of a TV show for my kids, so I made this. It requires ffmpeg. To run:
 
-python ffsplice.py <input file> <naughty bit 1> <naughty bit 2> ...
+python ffsplice.py input bit1 bit2 ...
 
 For example:
 
